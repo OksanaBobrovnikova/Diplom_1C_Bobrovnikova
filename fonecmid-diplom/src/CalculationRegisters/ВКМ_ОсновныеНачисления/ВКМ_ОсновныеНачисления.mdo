@@ -136,22 +136,6 @@
     <maxValue xsi:type="core:UndefinedValue"/>
     <fullTextSearch>Use</fullTextSearch>
   </resources>
-  <resources uuid="03abf600-f1dd-440e-b417-cadf8a0c402c">
-    <name>РабочихДней</name>
-    <synonym>
-      <key>ru</key>
-      <value>Рабочих дней</value>
-    </synonym>
-    <type>
-      <types>Number</types>
-      <numberQualifiers>
-        <precision>10</precision>
-      </numberQualifiers>
-    </type>
-    <minValue xsi:type="core:UndefinedValue"/>
-    <maxValue xsi:type="core:UndefinedValue"/>
-    <fullTextSearch>Use</fullTextSearch>
-  </resources>
   <resources uuid="a0cbd669-1fee-4f14-a4b6-0f476860a386">
     <name>ОтработаноДней</name>
     <synonym>
@@ -168,7 +152,23 @@
     <maxValue xsi:type="core:UndefinedValue"/>
     <fullTextSearch>Use</fullTextSearch>
   </resources>
-  <resources uuid="f7aa5721-fc08-4ccd-b2f9-ea856063db12">
+  <resources uuid="5af9ee1f-9a4f-4a9d-a147-c4db8ee8436b">
+    <name>РабочихДней</name>
+    <synonym>
+      <key>ru</key>
+      <value>Рабочих дней</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>10</precision>
+      </numberQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+  </resources>
+  <resources uuid="394d9057-de27-4eb2-b0ce-99b3b5369d8c">
     <name>ДнейОтпуска</name>
     <synonym>
       <key>ru</key>

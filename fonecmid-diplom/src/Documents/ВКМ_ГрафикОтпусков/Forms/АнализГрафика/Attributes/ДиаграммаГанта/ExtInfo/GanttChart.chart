@@ -117,7 +117,9 @@
     <legendIsInit>true</legendIsInit>
     <chartIsInit>true</chartIsInit>
     <elementsChart>
-      <right>0.1672</right>
+      <left>-0.0016474464579901153</left>
+      <top>0.0012165450121654502</top>
+      <bottom>-0.0012165450121655041</bottom>
     </elementsChart>
     <elementsLegend>
       <left>0.8328</left>
@@ -247,12 +249,12 @@
   <drawEmpty>true</drawEmpty>
   <timeScale>
     <levels>
-      <measure>Day</measure>
+      <measure>Month</measure>
       <interval>1</interval>
       <show>true</show>
       <line>
         <width>1</width>
-        <style>Dotted</style>
+        <style>Solid</style>
       </line>
       <scaleColor xsi:type="core:ColorDef">
         <red>192</red>

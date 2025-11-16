@@ -13,7 +13,7 @@
   <content>Catalog.ДоговорыКонтрагентов</content>
   <content>Document.ВКМ_ОбслуживаниеКлиента</content>
   <content>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы</content>
-  <content>Role.ВКМ_РаботаСДокументомОбслуживаниеКлиента</content>
+  <content>Role.ВКМ_ДобавлениеЗаписьДокументовОбслуживанияКлиента</content>
   <content>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы</content>
   <content>Constant.ВКМ_ТокенУправленияТелеграмБотом</content>
   <content>Constant.ВКМ_ИдентификаторГруппыДляОповещения</content>
@@ -55,4 +55,5 @@
   <content>Role.ВКМ_ДоступКОтчетуРасчетССотрудниками</content>
   <content>Role.ВКМ_ДоступКОтчетуРасходЗапланированныхОтпусков</content>
   <content>InformationRegister.ВКМ_ЗаплонированныеОтпуска</content>
+  <content>Role.ВКМ_ПроведениеДокументовОбслуживаниеКлиента</content>
 </mdclass:Subsystem>

@@ -22,4 +22,7 @@
   <content>Document.РеализацияТоваровУслуг</content>
   <content>DataProcessor.ВКМ_МассовоеСозданиеАктов</content>
   <content>Role.ВКМ_КалендарьУведомлений</content>
+  <content>Report.ВКМ_АнализВыставленныхАктов</content>
+  <content>Role.ВКМ_ДобавлениеЗаписьДокументовОбслуживанияКлиента</content>
+  <content>Role.ВКМ_ПроведениеДокументовОбслуживаниеКлиента</content>
 </mdclass:Subsystem>
